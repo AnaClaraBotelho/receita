@@ -95,3 +95,7 @@ hr{
     border: 1px solid #f3e5d7;
     margin-block: 32px;
 }
+
+li::marker {
+    color: #854632;
+}
